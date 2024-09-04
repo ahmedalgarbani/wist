@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "554086500243",
+    "firebase_url": "https://ambulance-a0046-default-rtdb.firebaseio.com",
+    "project_id": "ambulance-a0046",
+    "storage_bucket": "ambulance-a0046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554086500243:android:fc7f0a6c61e8823fe40a66",
+        "android_client_info": {
+          "package_name": "com.example.wist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wHcMIc3J2JSIosELofF6NFR9_6I3nfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
